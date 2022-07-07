@@ -13,7 +13,6 @@ I'm Matheus. A web developer.
 
 Estudante de Análise e Desenvolvimento de Sistemas, tenho focado meus estudos para o desenvolvimento front-end.
 <br/>
-<br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusvdh&layout=compact&theme=dracula)](https://github.com/matheusvdh/github-readme-stats)
 
@@ -25,4 +24,5 @@ Estudante de Análise e Desenvolvimento de Sistemas, tenho focado meus estudos p
 <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
 <img align="center" alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 <img align="center" alt="vuejs" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"/>
+<br/>
 <br/>
