@@ -13,7 +13,7 @@ I'm Matheus. A web developer.
 
 <hr>
 
-Estudante de Análise e Desenvolvimento de Sistemas, tenho focado meus estudos para o desenvolvimento front-end.
+Estudante de Análise e Desenvolvimento de Sistemas, tenho focado meus estudos para o desenvolvimento web.
 <br/>
 <br/>
 
