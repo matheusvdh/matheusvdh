@@ -9,7 +9,6 @@
 
 <hr>
 
-<br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusvdh&layout=compact&theme=dracula)](https://github.com/matheusvdh/github-readme-stats)
 
