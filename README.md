@@ -1,4 +1,4 @@
-### Oi 👋 
+# Oi 👋 
 
 <br/>
 
@@ -9,7 +9,7 @@
 
 <hr>
 
-## Análise e Desenvolvimento de Sistemas
+### Estudante de Análise e Desenvolvimento de Sistemas
 <br/>
 <br/>
 
