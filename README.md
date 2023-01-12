@@ -9,7 +9,7 @@
 
 <hr>
 
-Estudante de Análise e Desenvolvimento de Sistemas, tenho focado meus estudos para o desenvolvimento web.
+## Análise e Desenvolvimento de Sistemas
 <br/>
 <br/>
 
